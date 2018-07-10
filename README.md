@@ -1,6 +1,6 @@
 SEBASTIAN COJOCARIU 321CB UPB ACS
-
-										                          IBANK
+					
+							IBANK
 
 In vederea rezolvarii temei am folosit functia select() cu rolul de a mutiplexa
 conexiuniile mai multor clienti(numar dinamic).In cele ce urmeaza vom descrie
